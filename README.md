@@ -8,12 +8,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---github.com/@rosemariepahayo11 is a ✨ special ✨ repository because its `README.md` (@rosemariepahayo11) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+**rosemariepahayo11/rosemariepahayo11** 
+is a ✨ special ✨ repository because its `README.md`
 # ℹmyInspiration™  
-
 `https://myinspirationph.wordpress.com` 
 # ![amazing-image-identifier](https://user-images.githubusercontent.com/99250100/155883467-7895b0a1-ba7c-4d67-92ec-c9e7714eb158.png)
 
