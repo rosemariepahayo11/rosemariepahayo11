@@ -10,7 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 # amazing-image-identifier
 
-![amazing-image-identifier](banner.png)
+![amazing-image-identifier](https://user-images.githubusercontent.com/99250100/155882853-d550836e-f65d-4710-b72d-2460c0143778.png)
+
 
 Find the project online at [projects.raspberrypi.org/en/projects/amazing-image-identifier](https://projects.raspberrypi.org/en/projects/amazing-image-identifier)
 
