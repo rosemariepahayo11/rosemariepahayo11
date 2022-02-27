@@ -1,7 +1,4 @@
 # blockscad-coder-keyring
-
-![blockscad-coder-keyring](/en/images/banner.png)
-
 Find the project online at [projects.raspberrypi.org/en/projects/blockscad-coder-keyring](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring)
 
 ## Resources
