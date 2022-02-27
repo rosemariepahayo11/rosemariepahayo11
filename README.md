@@ -17,3 +17,4 @@ is a ✨ special ✨ repository because its `README.md`
 
 
 
+![amazing-image-identifier](https://projects.raspberrypi.org/static/media/logomark.20300533.svg)
