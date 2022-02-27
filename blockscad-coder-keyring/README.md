@@ -1,3 +1,4 @@
+![amazing-image-identifier](https://projects.raspberrypi.org/static/media/logomark.20300533.svg)
 # blockscad-coder-keyring
 Find the project online at [projects.raspberrypi.org/en/projects/blockscad-coder-keyring](https://projects.raspberrypi.org/en/projects/blockscad-coder-keyring)
 
