@@ -12,9 +12,9 @@
 is a ✨ special ✨ repository because its `README.md`
 # ℹmyInspiration™  
 `https://myinspirationph.wordpress.com` 
-# ![amazing-image-identifier](https://user-images.githubusercontent.com/99250100/155883467-7895b0a1-ba7c-4d67-92ec-c9e7714eb158.png)
 
 
 
 
-![amazing-image-identifier](https://projects.raspberrypi.org/static/media/logomark.20300533.svg)
+
+![amazing-image-identifier](https://user-images.githubusercontent.com/99250100/155883467-7895b0a1-ba7c-4d67-92ec-c9e7714eb158.png)
